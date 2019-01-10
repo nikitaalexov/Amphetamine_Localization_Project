@@ -1,0 +1,587 @@
+
+#####################################
+PLEASE DO NOT REMOVE THE ENGLISH TEXT. TRANSLATED TEXT SHOULD GO DIRECTLY UNDER THE ENGLISH TEXT. THERE MAY BE SOME DUPLICATE STRINGS. SORRY! 
+
+EXAMPLE:
+
+----------------------------------------- 005
+@"Welcome to Amphetamine⁴"
+
+@"TRANSLATED TEXT GOES HERE"
+
+
+#####################################
+YOU MAY SEE ODD TEXT SUCH AS \n or %@ or %li, etc. THROUGHOUT THE ENGLISH STRINGS. THESE ARE PLACEHOLDERS IN THE CODE. PLEASE TRY TO INFER THEIR MEANING AND KEEP THEM IN YOUR TRANSLATION. 
+
+EXAMPLES:
+
+@"Your Mac's battery is below %@."
+THE %@ CHARACTER SET IS A PLACEHOLDER FOR THE BATTERY PERCENT
+
+@"Battery charge is below %li%%"
+THE %li%% CHARACTER SET IS A PLACEHOLDER FOR THE BATTERY PERCENT
+
+@"Trigger \"%@\" can't be edited right now."
+THE \"%@\" CHARACTER SET IS A PLACEHOLDER FOR A TRIGGER'S NAME
+
+CONTACT ME WITH ANY QUESTIONS AT
+https://amphetamine.freshdesk.com
+
+THANK YOU!
+
+WILLIAM GUSTAFSON
+AMPHETAMINE CREATOR
+
+
+
+
+
+
+#####################################
+####				 ####
+####  B E G I N  S T R I N G S	 ####
+####				 ####
+#####################################
+
+----------------------------------------- 001
+@"Migrate"
+
+----------------------------------------- 002
+@"Reset"
+
+----------------------------------------- 003
+@"Backup"
+
+----------------------------------------- 004
+@"Quit"
+
+----------------------------------------- 005
+@"Welcome to Amphetamine⁴"
+
+----------------------------------------- 006
+@"Due to all of the new awesomeness in Amphetamine⁴, your Amphetamine³ preferences must either be migrated or reset. If you choose Migrate, Amphetamine⁴ will attempt to translate all of your previous preferences (including Triggers, Drive Alive settings, icons, durations, hotkeys, etc.) to the new Amphetamine⁴ format.\n\nOf course, there is some risk with this operation. Migrate with caution. If you absolutely cannot lose your Amphetamine³ preferences, please choose Backup before trying to Migrate.\n\nIf you'd rather start fresh (good for you!), choose Reset. If you're seeing this message unexpectedly, just click Reset."
+
+----------------------------------------- 007
+@"Amphetamine³ preferences saved"
+
+----------------------------------------- 008
+@"You may now migrate or reset"
+
+----------------------------------------- 009
+@"Default Duration"
+
+----------------------------------------- 010
+@"This preference utilizes the Default Duration (Preferences → Sessions → Default Duration)."
+
+----------------------------------------- 011
+@"Current Session Details:"
+
+----------------------------------------- 012
+@"Start New Session:"
+
+----------------------------------------- 013
+@"End Session"
+
+----------------------------------------- 014
+@"Continue Session"
+
+----------------------------------------- 015
+@"Your Mac's battery is %@."
+
+----------------------------------------- 016
+@"Your Mac's battery is below %@."
+
+----------------------------------------- 017
+@"Would you like to continue this session?"
+
+----------------------------------------- 018
+@"Not connected to AC power adapter"
+
+----------------------------------------- 019
+@"Battery charge is below %li%%"
+
+----------------------------------------- 020
+@"Session has ended"
+
+----------------------------------------- 021
+@"Battery is not connected to power adapter"
+
+----------------------------------------- 022
+@"Battery charge is below %li%%"
+
+----------------------------------------- 023
+@"Session has ended"
+
+----------------------------------------- 024
+@"Power adapter reconnected"
+
+----------------------------------------- 025
+@"Amphetamine is keeping your Mac awake"
+
+----------------------------------------- 026
+@"Power adapter was reconnected"
+
+----------------------------------------- 027
+@"Display sleep is allowed"
+
+----------------------------------------- 028
+@"Your Mac and display will not sleep"
+
+----------------------------------------- 029
+@"Amphetamine is keeping your Mac awake"
+
+----------------------------------------- 030
+@"Next reminder will be sent in %li minutes"
+
+----------------------------------------- 031
+@"Next reminder will be sent in %li minute"
+
+----------------------------------------- 031
+@"Are you sure you want to reset Amphetamine's preferences?."
+
+----------------------------------------- 032
+@"All preferences will be reset to their default values, and you will lose all Trigger, Drive Alive configurations."
+
+----------------------------------------- 033
+@"Continue"
+
+----------------------------------------- 034
+@"Cancel"
+
+----------------------------------------- 035
+@"Other Time: %lih %lim"
+
+----------------------------------------- 036
+@"New session at app launch"
+
+----------------------------------------- 037
+@"not connected to AC power adapter"
+
+----------------------------------------- 038
+@"End non-Trigger sessions when:"
+
+----------------------------------------- 039
+@"End non-Trigger sessions if charge (%) is below:"
+
+----------------------------------------- 040
+@"Built-in Speakers"
+
+----------------------------------------- 041
+@"Headphones (wired, 3.5mm)"
+
+----------------------------------------- 041
+@"Session has ended"
+
+----------------------------------------- 042
+@"App %@ is no longer running"
+
+----------------------------------------- 043
+@"Next"
+
+----------------------------------------- 044
+@"Close"
+
+----------------------------------------- 045
+@"Custom Images"
+
+----------------------------------------- 046
+@"Current Session Details:\n"
+
+----------------------------------------- 047
+@"Manual Activation"
+
+----------------------------------------- 048
+@"New features in Drive Alive require the following information...\n\nIs the volume/drive named '%@' a network connected volume?\" buttons {\"YES\", \"NO\"} with title \"Amphetamine : Drive Alive\"
+
+----------------------------------------- 049
+@"YES"
+
+----------------------------------------- 050
+@"NO"
+
+----------------------------------------- 051
+@"Drive Alive is not enabled"
+
+----------------------------------------- 052
+@"No drives are configured"
+
+----------------------------------------- 053
+@" [ alive ]"
+
+----------------------------------------- 054
+@" [ dead ]"
+
+----------------------------------------- 055
+@" [ disconnected ]"
+
+----------------------------------------- 056
+@"Drive Alive Details:\n"
+
+----------------------------------------- 057
+@"Disable All Triggers"
+
+----------------------------------------- 058
+@"Dismiss"
+
+----------------------------------------- 059
+@"A Trigger session is running."
+
+----------------------------------------- 060
+@"Disable all Triggers automatically next time"
+
+----------------------------------------- 061
+@"Disable indefinitely"
+
+----------------------------------------- 062
+@"Disable for 5 minutes"
+
+----------------------------------------- 063
+@"Disable for 10 minutes"
+
+----------------------------------------- 064
+@"Disable for 15 minutes"
+
+----------------------------------------- 065
+@"Disable for 30 minutes"
+
+----------------------------------------- 066
+@"Disable for 1 hour"
+
+----------------------------------------- 067
+@"Ending this session requires disabling the following Trigger:\n\n%@\n\nYou can disable all Triggers using the button below, or visit Amphetamine's Preferences to disable this specific Trigger. You can always re-enable all Triggers from Amphetamine's Preferences later.\n\nChoose Dismiss to leave all Triggers enabled."
+
+----------------------------------------- 068
+@"Timed session has ended"
+
+----------------------------------------- 069
+@"End time (%@) has passed"
+
+----------------------------------------- 070
+@"Your Mac will sleep on its normal schedule"
+
+----------------------------------------- 071
+@"Timed session has ended"
+
+----------------------------------------- 072
+@"Session duration has elapsed"
+
+----------------------------------------- 073
+@"Your Mac will sleep on its normal schedule"
+
+----------------------------------------- 074
+@"None selected"
+
+----------------------------------------- 075
+@" (when frontmost)"
+
+----------------------------------------- 076
+@"Sun, "
+
+----------------------------------------- 077
+@"Mon, "
+
+----------------------------------------- 078
+@"Tue, "
+
+----------------------------------------- 079
+@"Wed, "
+
+----------------------------------------- 080
+@"Thu, "
+
+----------------------------------------- 081
+@"Fri, "
+
+----------------------------------------- 082
+@"Sat, "
+
+----------------------------------------- 083
+@"No days selected "
+
+----------------------------------------- 084
+@"Battery @ %i%% charge"
+
+----------------------------------------- 085
+@", or AC adapter"
+
+----------------------------------------- 086
+@"Only when AC adapter is connected"
+
+----------------------------------------- 087
+@"Version "
+
+----------------------------------------- 088
+@" is running"
+
+----------------------------------------- 089
+@"Something went wrong. 😞"
+
+----------------------------------------- 090
+@"You may have not selected an app, or the app you selected may have quit. Please select a different app or relaunch the one you selected previously."
+
+----------------------------------------- 091
+@"Are you the one who knocks?"
+
+----------------------------------------- 092
+@"Congratulations! You have unlocked a new menu bar image and notification sound! Visit Amphetamine's Preferences to see your new image and sound."
+
+----------------------------------------- 093
+@"End Current Session"
+
+----------------------------------------- 094
+@"OK"
+
+----------------------------------------- 095
+@"No IP Addresses Found."
+
+----------------------------------------- 096
+@"Double-check whether your Mac is connected to your local network."
+
+----------------------------------------- 097
+@"%.0f%% charged"
+
+----------------------------------------- 098
+@", or..."
+
+----------------------------------------- 099
+@"Trigger session has started"
+
+----------------------------------------- 100
+@"Trigger session has ended"
+
+----------------------------------------- 101
+@"• Trigger name not provided.\n\n"
+
+----------------------------------------- 102
+@"• Wi-Fi criterion is enabled but network name field is empty.\n\n"
+
+----------------------------------------- 103
+@"• IP Address criterion is enabled but address field is empty.\n\n"
+
+----------------------------------------- 104
+@"• VPN Service criterion is enabled but no service name was found.\n\n"
+
+----------------------------------------- 105
+@"• IP Address criterion is enabled but one or more address fields are empty.\n\n"
+
+----------------------------------------- 106
+@"• App criterion is enabled but no app was selected.\n\n"
+
+----------------------------------------- 107
+@"• Schedule criterion is enabled but no days were selected.\n\n"
+
+----------------------------------------- 108
+@"• Display criterion is enabled but count field is empty.\n\n"
+
+----------------------------------------- 109
+@"• Drive criterion is enabled but no drive is selected.\n\n"
+
+----------------------------------------- 110
+@"• USB Device criterion is enabled but no device is selected.\n\n"
+
+----------------------------------------- 111
+@"• Bluetooth Device criterion is enabled but no device is selected.\n\n"
+
+----------------------------------------- 112
+@"• No criterion was selected/enabled.\n\n"
+
+----------------------------------------- 113
+@"Uh-oh! Something went horribly wrong."
+
+----------------------------------------- 114
+@"Trigger \"%@\" can't be edited right now."
+
+----------------------------------------- 115
+@"The VPN service used with this Trigger is not currently active.\n\nPlease start VPN service \"%@\" and try again."
+
+----------------------------------------- 116
+@"The app used with this Trigger is not currently running.\n\nPlease launch \"%@\" and try again."
+
+----------------------------------------- 117
+@"The volume/drive used with this Trigger is not currently mounted.\n\nPlease mount \"%@\" and try again."
+
+----------------------------------------- 118
+@"The USB device used with this Trigger is not currently connected.\n\nPlease connect \"%@\" and try again."
+
+----------------------------------------- 119
+@"The Bluetooth device used with this Trigger is no longer paired.\n\nPlease re-pair \"%@\" and try again."
+
+----------------------------------------- 120
+@"The audio output used with this Trigger is not currently available.\n\nPlease connect \"%@\" and try again."
+
+----------------------------------------- 121
+@"No days selected "
+
+----------------------------------------- 122
+@"Battery @ %i%% charge"
+
+----------------------------------------- 123
+@", or AC adapter"
+
+----------------------------------------- 124
+@"Only when AC adapter is connected"
+
+----------------------------------------- 125
+@"No custom images were found"
+
+----------------------------------------- 126
+@"Two custom images (active and inactive) are required. The default images will be used."
+
+----------------------------------------- 127
+@"Images could not be saved"
+
+----------------------------------------- 128
+@"An unknown error occurred. The default images will be used."
+
+----------------------------------------- 129
+@"Device disconnected"
+
+----------------------------------------- 130
+@"No recognized devices attached"
+
+----------------------------------------- 131
+@"File is downloading..."
+
+----------------------------------------- 132
+@"File is downloading... (%@ of ?)"
+
+----------------------------------------- 133
+@"Successfully reset warnings and dialogs"
+
+-----------------------------------------  134
+@"Have a wonderful day."
+
+----------------------------------------- 135
+@"Mac woke from sleep"
+
+----------------------------------------- 136
+@"Amphetamine is keeping your Mac awake"
+
+----------------------------------------- 137
+@"Uh-oh."
+
+----------------------------------------- 138
+@"Something went wrong. Try again, please!"
+
+----------------------------------------- 139
+@"Choose"
+
+----------------------------------------- 140
+@"Please choose the sounds you would like to add to Amphetamine:"
+
+----------------------------------------- 141
+@"Uh-oh. Something really terrible happened." 
+
+----------------------------------------- 142
+@"Your new sounds files may not have been copied properly. Please try again."
+
+----------------------------------------- 143
+@"Amphetamine has kept your Mac awake for\n%@ %@ %@ %@"
+
+----------------------------------------- 144
+@"%li day "
+
+----------------------------------------- 145
+@"%li hour "
+
+----------------------------------------- 146
+@"%li minute "
+
+----------------------------------------- 147
+@"%li second "
+
+----------------------------------------- 148
+@"days"];
+
+----------------------------------------- 149
+@"hours"];
+
+----------------------------------------- 150
+"minutes"];
+
+----------------------------------------- 151
+@"seconds"];
+
+----------------------------------------- 152
+@"Quick-Start a Session"
+
+----------------------------------------- 153
+@"Launch and Wake Behavior"
+
+----------------------------------------- 154
+@"Other"
+
+----------------------------------------- 155
+@"Default Duration"
+
+----------------------------------------- 156
+@"End Time Calculation"
+
+----------------------------------------- 157
+@"Display Sleep"
+
+----------------------------------------- 158
+@"Screen Saver"
+
+----------------------------------------- 159
+@"Fast User Switching"
+
+----------------------------------------- 160
+@"Battery"
+
+----------------------------------------- 161
+@"AC Power Adapter"
+
+----------------------------------------- 162
+@"Start or End Session"
+
+----------------------------------------- 163
+@"Start Session"
+
+----------------------------------------- 164
+@"End Session"
+
+----------------------------------------- 165
+@"Open Menu"
+        
+----------------------------------------- 166
+@"Session Reminders"
+
+----------------------------------------- 167
+@"Trigger/Scheduled Notifications"
+
+----------------------------------------- 168
+@"Sound"
+
+----------------------------------------- 169
+@"Notification Center"
+        
+----------------------------------------- 170
+@"Status Image"
+
+----------------------------------------- 171
+@"Menu Bar Text"
+
+----------------------------------------- 172
+@"Menu Extras"
+
+----------------------------------------- 173
+@"Please choose the drive you would like to keep awake:"
+
+----------------------------------------- 174
+@"Some technical details..."
+
+----------------------------------------- 175
+@"The macOS sandboxing feature prevents Amphetamine from writing to the root directory of the drive that macOS is installed on.\n\nAmphetamine can still keep this drive awake, but will write data to the following path:\n\n%@"
+
+----------------------------------------- 176
+@"An error occurred"
+
+----------------------------------------- 177
+@"Amphetamine does not have permission to write data to this location. This is most likely due to macOS sandboxing or the volume's formatting.\n\nYou can try the following workaround, but it may not be successful:\n\n• Create a new folder at the root of the volume/drive (you may be asked for the password of and admin user). Then, select that folder for use with Drive Alive."
+
+----------------------------------------- 178
+@"Network volume detected"
+
+----------------------------------------- 179
+@"The drive/volume you have selected appears to be a network or non-local volume. Please be aware that if the connection to this volume is lost or otherwise unavailable, Amphetamine may become unresponsive."
